@@ -51,7 +51,7 @@ const Movies = () => {
       <header className="header">
         <div className="header-content max-content">
           <span>
-            Movie <span style={{ color: "#48ff00" }}> Trailer </span> App
+            Movie <span style={{ color: "#48ff" }}> Trailer </span> App
           </span>
           <form onSubmit={searchMovies}>
             <input
